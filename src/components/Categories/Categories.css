@@ -1,0 +1,45 @@
+.categories {
+    width: 100%;
+    background-color: lightgrey;
+    display: flex;
+    justify-content: center;
+}
+
+.category-container {
+
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+
+#discount {
+    width: 20%;
+    height: 200px;
+    padding: 10px;
+}
+
+#handsaw {
+    width: 41.5%;
+    height: auto;
+    padding: 10px;
+}
+
+#accesories {
+    width: 20%;
+    height: auto;
+    padding: 10px;
+}
+
+#powertool {
+    width: 20%;
+    height: 200px;
+    padding: 10px;
+}
+
+#cuttingtool {
+    width: 20%;
+    height: 200px;
+    padding: 10px;
+}
